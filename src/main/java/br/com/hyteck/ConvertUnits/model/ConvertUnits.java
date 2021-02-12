@@ -16,7 +16,7 @@ import java.math.BigDecimal;
 
 
 
-public class ConvertUnits implements Serializable  {
+public class ConvertUnits implements Serializable {
 
     private BigDecimal multiplication_factor;
 private String unit_name;

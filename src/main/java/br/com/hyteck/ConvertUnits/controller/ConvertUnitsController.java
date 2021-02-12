@@ -1,4 +1,4 @@
-package br.com.hyteck.ConvertUnits.controler;
+package br.com.hyteck.ConvertUnits.controller;
 
 import br.com.hyteck.ConvertUnits.model.ConvertUnits;
 import br.com.hyteck.ConvertUnits.service.ConvertUnitsService;

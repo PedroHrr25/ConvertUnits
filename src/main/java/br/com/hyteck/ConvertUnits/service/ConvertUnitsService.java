@@ -1,6 +1,7 @@
 package br.com.hyteck.ConvertUnits.service;
 
 import br.com.hyteck.ConvertUnits.model.ConvertUnits;
+import com.fasterxml.jackson.databind.deser.std.StringArrayDeserializer;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
